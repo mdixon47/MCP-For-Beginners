@@ -1,0 +1,14 @@
+[project]
+name = "basic-python-mcp-server"
+version = "0.1.0"
+description = "Basic Python MCP server example"
+authors = [{ name = "Your Name" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "mcp>=1.12.0",
+]
+
+[tool.uv]
+# Optional: enable uv specific settings if you use uv
+

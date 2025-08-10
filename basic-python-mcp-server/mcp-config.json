@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "basic-python-mcp-server": {
+      "command": "python",
+      "args": [
+        "server.py"
+      ]
+    }
+  }
+}
+
